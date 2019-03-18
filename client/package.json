@@ -1,0 +1,27 @@
+{
+  "name": "mini-wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --host=localhost"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfanmaulanasam/mini-wp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfanmaulanasam/mini-wp/issues"
+  },
+  "homepage": "https://github.com/irfanmaulanasam/mini-wp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "simditor": "^2.3.23",
+    "vue": "^2.6.8"
+  },
+  "devDependencies": {}
+}
